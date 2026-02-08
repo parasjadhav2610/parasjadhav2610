@@ -1,9 +1,9 @@
 <h1 align="center">Hieee!!!</h1>
 
-- 👋 Hi, I'm Paras Jadhav pursuing bachelor's in IT engineering.
+- 👋 Hi, I'm Paras Jadhav pursuing Masters in Computer Science.
 - 🖥️ Interested in Application Development.
-- 🖥️ Edited videos for Youtube.
 - 🖥️ Currently learning Machine Learning.
+- 🖥️ Edited videos for Youtube.
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
